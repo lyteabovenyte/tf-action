@@ -1,0 +1,1 @@
+hello ${nouns[0]}
